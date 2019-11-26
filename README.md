@@ -161,6 +161,8 @@ methods: {
 
 ## Contributing
 
+Note: icomoon should be loaded in your development environment.
+
 ``` bash
 # serve with hot reload at localhost:8080
 npm run dev
