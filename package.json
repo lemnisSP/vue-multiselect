@@ -1,6 +1,6 @@
 {
   "name": "@studyportals/vue-multiselect",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "private": false,
   "scripts": {
     "test": "vue-cli-service test",
@@ -113,5 +113,7 @@
     "src",
     "index.d.ts"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "nan": "git+https://github.com/nodejs/nan.git"
+  }
 }
