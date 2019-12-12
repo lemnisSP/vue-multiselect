@@ -113,5 +113,7 @@
     "src",
     "index.d.ts"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "nan": "git+https://github.com/nodejs/nan.git"
+  }
 }
